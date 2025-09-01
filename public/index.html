@@ -1,0 +1,73 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Weekly Schedule Builder</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>📅 Weekly Schedule Builder</h1>
+    <form action="/save" method="POST">
+      <table>
+        <thead>
+          <tr>
+            <th>Day</th>
+            <th>Morning</th>
+            <th>Afternoon</th>
+            <th>Evening</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Monday</td>
+            <td><input type="text" name="Monday_Morning"></td>
+            <td><input type="text" name="Monday_Afternoon"></td>
+            <td><input type="text" name="Monday_Evening"></td>
+          </tr>
+          <tr>
+            <td>Tuesday</td>
+            <td><input type="text" name="Tuesday_Morning"></td>
+            <td><input type="text" name="Tuesday_Afternoon"></td>
+            <td><input type="text" name="Tuesday_Evening"></td>
+          </tr>
+          <tr>
+            <td>Wednesday</td>
+            <td><input type="text" name="Wednesday_Morning"></td>
+            <td><input type="text" name="Wednesday_Afternoon"></td>
+            <td><input type="text" name="Wednesday_Evening"></td>
+          </tr>
+          <tr>
+            <td>Thursday</td>
+            <td><input type="text" name="Thursday_Morning"></td>
+            <td><input type="text" name="Thursday_Afternoon"></td>
+            <td><input type="text" name="Thursday_Evening"></td>
+          </tr>
+          <tr>
+            <td>Friday</td>
+            <td><input type="text" name="Friday_Morning"></td>
+            <td><input type="text" name="Friday_Afternoon"></td>
+            <td><input type="text" name="Friday_Evening"></td>
+          </tr>
+          <tr>
+            <td>Saturday</td>
+            <td><input type="text" name="Saturday_Morning"></td>
+            <td><input type="text" name="Saturday_Afternoon"></td>
+            <td><input type="text" name="Saturday_Evening"></td>
+          </tr>
+          <tr>
+            <td>Sunday</td>
+            <td><input type="text" name="Sunday_Morning"></td>
+            <td><input type="text" name="Sunday_Afternoon"></td>
+            <td><input type="text" name="Sunday_Evening"></td>
+          </tr>
+        </tbody>
+      </table>
+      <button type="submit">💾 Save Schedule</button>
+    </form>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
+
