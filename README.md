@@ -16,3 +16,19 @@ This app allows users to create a weekly schedule (Monday–Sunday × Morning, A
 
  ![Weekly Schedule Builder Demo](public/images/screenshot.png)
  ![Weekly Schedule Builder Demo](public/images/screenshot1.png)
+
+ ⸻
+ 🔗 Project live on Render: [https://weekly-schedule-builder-web.onrender.com/](#)
+
+ ## 👨‍💻 Author
+
+Atunde Toheeb Ayomide (Jiggy)  
+📍 Lagos, Nigeria  
+📧 [atundetoheeb1@gmail.com](mailto:atundetoheeb1@gmail.com)  
+🔗 [GitHub](https://github.com/ceezign) | [LinkedIn](https://www.linkedin.com/in/atunde-toheeb-551826313)
+
+---
+
+## 🪪 License
+
+This project is open source and available under the MIT License.
