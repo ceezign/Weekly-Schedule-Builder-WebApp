@@ -18,7 +18,7 @@ This app allows users to create a weekly schedule (Monday–Sunday × Morning, A
  ![Weekly Schedule Builder Demo](public/images/screenshot1.png)
 
  ⸻
- 🔗 Project live on Render: [](https://weekly-schedule-builder-web.onrender.com/)
+ 🔗 Project live on Render: [https://weekly-schedule-builder-web.onrender.com/](https://weekly-schedule-builder-web.onrender.com/)
 
  ## 👨‍💻 Author
 
